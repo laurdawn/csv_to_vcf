@@ -1,4 +1,8 @@
-# csv_to_vcf
-csv文本转vcf通讯录脚本
+csv_to_vcf
+==========
 
-除了老人机，android与ios通用
+csv文本转*vcf*通讯录脚本
+
+android与ios通用
+
+* 该脚本只设置了姓名电话等，如有需求，需定制自己的通讯录格式
